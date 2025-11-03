@@ -1,0 +1,32 @@
+.root {
+    -fx-background-color: linear-gradient(to bottom right, #fdfbfb, #ebedee);
+}
+
+#chatArea {
+    -fx-control-inner-background: #ffffff;
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333;
+    -fx-border-color: #8ab6d6;
+    -fx-border-width: 2;
+    -fx-border-radius: 5;
+}
+
+#messageField {
+    -fx-background-color: #f0f0f0;
+    -fx-font-size: 13px;
+    -fx-border-radius: 5;
+    -fx-padding: 5 10 5 10;
+}
+
+#sendButton {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5;
+    -fx-cursor: hand;
+}
+
+#sendButton:hover {
+    -fx-background-color: #45a049;
+}
+
