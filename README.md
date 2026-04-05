@@ -56,6 +56,10 @@ java --module-path "YOUR_JAVAFX_PATH\lib" --add-modules javafx.controls,javafx.f
 
 👉 Run multiple times to simulate multiple users.
 
+Screenshots:-
+https://github.com/vaani004/ChatServer/blob/main/Screenshot%202026-03-28%20183227.png?raw=true
+
+
 🚧 Future Improvements
 🔐 Login & Authentication
 💬 Private Chat Feature
